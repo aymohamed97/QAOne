@@ -1,0 +1,8 @@
+2 high level (broad) tests
+a.check if menu opens
+b.check if modify wanted opens new window
+2 low level (specific) tests
+a. check if enter wanted generates new warrant
+b. check if query closes out existing warrant 
+1 smoke/sanity test (basic run through of the whole site)
+a.check if home displays the same as menu 
